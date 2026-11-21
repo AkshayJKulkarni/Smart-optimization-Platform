@@ -4,6 +4,8 @@ An end-to-end Machine Learning application that predicts retail product demand a
 
 ---
 
+## Demo Link of the Project : https://smart-optimization-platform-9zhcennvtqvkkfiawdxqxn.streamlit.app/
+
 ## 📌 Project Overview
 
 Retail businesses often struggle with maintaining optimal inventory levels due to fluctuating customer demand. This project leverages Machine Learning to accurately forecast product demand and recommend inventory actions, enabling better procurement planning and reducing operational costs.
